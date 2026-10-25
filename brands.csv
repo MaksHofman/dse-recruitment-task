@@ -1,0 +1,211 @@
+﻿brand,type,aliases,context,ambiguous
+Absolut,vodka,absolut-vodka;absolut-wodka,citron;vodka,skip
+Smirnoff,vodka,,ice;malt;vodka,1
+Stolichnaya,vodka,stoli,,
+Zubrowka,vodka,zubrowka-bison-grass,,
+Belvedere,vodka,,,
+Chopin,vodka,,,1
+Finlandia,vodka,,,1
+Skyy,vodka,,,1
+Svedka,vodka,,,
+Luksusowa,vodka,,,
+Sobieski,vodka,,,
+Krupnik,vodka,,likier;nalewka;miod,1
+Tito's,vodka,,,
+Jack Daniel's,whisky,,tennessee;old-no-7;gentleman-jack;single-barrel,0
+Jim Beam,whisky,,,
+Jameson,whisky,jameson-irish-whiskey,,
+Johnnie Walker,whisky,,,
+Chivas Regal,whisky,,,
+Glenfiddich,whisky,,,
+Macallan,whisky,the-macallan,,
+Ballantine's,whisky,,,
+Maker's Mark,whisky,,,
+Four Roses,whisky,,,
+Crown Royal,whisky,,,
+Wild Turkey,whisky,,,
+Bulleit,whisky,,,
+Woodford Reserve,whisky,,,
+Knob Creek,whisky,,,
+Laphroaig,whisky,,,
+Lagavulin,whisky,,,
+Talisker,whisky,,,
+Glenlivet,whisky,,,
+Glenmorangie,whisky,,,
+Dalmore,whisky,,,
+Bushmills,whisky,,,
+Tullamore Dew,whisky,,,
+Teeling,whisky,,,
+Dewar's,whisky,,,
+Monkey Shoulder,whisky,,,
+Seagram's,whisky,,,
+Southern Comfort,whisky,,,
+Aberlour,whisky,,,
+Ardbeg,whisky,,uigeadail;corryvreckan;islay;distillery,0
+Highland Park,whisky,,,
+Jura,whisky,,,1
+Nikka,whisky,,,
+Suntory,whisky,,,
+Yamazaki,whisky,,,
+Hibiki,whisky,,,
+Bacardi,rum,,,
+Havana Club,rum,,,
+Malibu,rum,,,1
+Appleton Estate,rum,,,
+Kraken,rum,,,1
+Sailor Jerry,rum,,,
+Lamb's,rum,,,
+Diplomatico,rum,,,
+Don Papa,rum,,,
+Plantation,rum,,,1
+Gosling's,rum,,,
+Zacapa,rum,,,
+Bumbu,rum,,,
+Barcelo,rum,,,
+Bombay Sapphire,gin,,,
+Hendrick's,gin,hendricks-gin;hendricksgin,flora-adora;neptunia,0
+Tanqueray,gin,,,
+Gordon's,gin,,,
+Beefeater,gin,,,
+Monkey 47,gin,,,
+Plymouth,gin,,,1
+Roku,gin,,,1
+Aviation,gin,,american-gin,1
+Bulldog,gin,,,
+Larios,gin,,,
+Jose Cuervo,tequila,,,
+Patron,tequila,,,1
+Don Julio,tequila,,,
+Olmeca,tequila,,altos;tequila,1
+Espolon,tequila,,,
+Casamigos,tequila,,,
+Herradura,tequila,,,
+Camarena,tequila,,,
+Cazadores,tequila,,,
+Milagro,tequila,,,1
+Hennessy,cognac,,,
+Remy Martin,cognac,,,
+Martell,cognac,,,
+Hine,cognac,,,
+Camus,cognac,,,1
+Metaxa,cognac,,,
+Jagermeister,liqueur,,kraeuterlikoer;shots,0
+Baileys,liqueur,,,
+Aperol,liqueur,aperol-spritz,,
+Campari,liqueur,,spritz;bitter;negroni,0
+Cointreau,liqueur,,,
+Kahlua,liqueur,,,
+Amarula,liqueur,,,
+Benedictine,liqueur,,,
+Disaronno,liqueur,,,
+Grand Marnier,liqueur,,,
+Frangelico,liqueur,,,
+Chambord,liqueur,,,
+Midori,liqueur,,,
+Sheridan's,liqueur,,,
+Ricard,liqueur,,,
+Pernod,liqueur,,,
+Unicum,liqueur,,,
+Limoncello,liqueur,,,
+Sambuca,liqueur,,,
+Martini,vermouth,martini-rosso;martini-bianco;martini-rossi;martini-vermouth,rossi;vermouth;bianco;rosso;riserva;fiero;asti;extra-dry,1
+Lillet,vermouth,,,
+Dolin,vermouth,,,
+Moet & Chandon,champagne,moet-chandon;moet,,
+Dom Perignon,champagne,,,
+Veuve Clicquot,champagne,,,
+Bollinger,champagne,,,
+Taittinger,champagne,,,
+Mumm,champagne,,,
+Krug,champagne,,,
+Piper-Heidsieck,champagne,,,
+Freixenet,champagne,,,
+Heineken,beer,,lager,0
+Carlsberg,beer,,,
+Budweiser,beer,,bud-light,0
+Guinness,beer,,,
+Corona,beer,corona-extra,extra;cerveza,1
+Zywiec,beer,,piwo;browar,1
+Lech,beer,,premium;pils;piwo;browar,1
+Perla,beer,perla-chmielowa,,1
+Warka,beer,,,1
+Stella Artois,beer,,,
+Leffe,beer,,,
+Peroni,beer,,,
+Asahi,beer,,super-dry;beer,1
+Sapporo,beer,,,1
+Kirin,beer,,,1
+Tiger,beer,,beer;singapore;lager,1
+Becks,beer,,,
+Erdinger,beer,,,
+Warsteiner,beer,,,
+Bitburger,beer,,,
+Kozel,beer,,,
+Miller,beer,,,1
+Coors,beer,,,
+Modelo,beer,,,
+Dos Equis,beer,,,
+Tecate,beer,,,1
+1664,beer,,,
+Chimay,beer,,,
+Grolsch,beer,,,
+Amstel,beer,,,
+Brewdog,beer,,,
+Sierra Nevada,beer,,,
+Harnas,beer,,,
+Tatra,beer,,,
+Redd's,beer,,,
+Lomza,beer,,,
+Niepolomice,beer,,,
+Fosters,beer,,,1
+Murphy's,beer,,,
+Kilkenny,beer,,,
+Strongbow,cider,,,
+Bulmers,cider,,,
+Thatchers,cider,,,
+Barefoot,wine,,,
+Yellow Tail,wine,,,
+Gallo,wine,,,1
+Penfolds,wine,,,
+Torres,wine,,,1
+Grant's,whisky,,,
+Cobra,beer,,beer;lager,1
+Imperial,beer,,whisky,1
+Chang,beer,,,
+Bell's,whisky,,scotch;whisky;original,1
+Piston,gin,,,1
+Bintang,beer,,,
+Fireball,whisky,,,
+Equilibrium,beer,,,1
+Jupiler,beer,,,
+Rochefort,beer,,,
+Kingfisher,beer,,,1
+Wayfinder,beer,,,1
+Harp,beer,,,
+Carling,beer,,,
+Brahma,beer,,,
+Weller,whisky,,,1
+La Trappe,beer,,,
+Ararat,cognac,,,
+Buffalo Trace,whisky,,,
+XXXX,beer,,,
+Estrella Galicia,beer,,,
+George Dickel,whisky,,,
+Grimbergen,beer,,,
+Achel,beer,,,
+Karhu,beer,,,
+Eagle Rare,whisky,,,
+Deep Eddy,vodka,,,
+Bardstown Bourbon,whisky,,,
+Evan Williams,whisky,,,
+Douloufakis,wine,,,
+Red Hook,beer,,,
+Estrella Damm,beer,,,
+Singha,beer,,,
+Red Stripe,beer,,,
+Sagres,beer,,,
+Delirium Tremens,beer,,,
+Cruzcampo,beer,,,
+Samuel Adams,beer,,,
+Wilson Creek Winery,wine,,,
+Treasury Wine Estates,wine,,,
